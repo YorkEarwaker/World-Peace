@@ -9,3 +9,8 @@ TODO
 DONE
 * <done: consider, intent to commit, >
 
+## References
+
+Terms
+* Love
+* Peace
