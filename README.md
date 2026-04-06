@@ -14,3 +14,6 @@ DONE
 Terms
 * Love
 * Peace
+
+Rationale
+* Grave of the Fireflies, [WP](https://en.wikipedia.org/wiki/Grave_of_the_Fireflies_(short_story))
