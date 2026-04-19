@@ -21,5 +21,6 @@ Organizations
 
 Rationale
 * Grave of the Fireflies, [WP](https://en.wikipedia.org/wiki/Grave_of_the_Fireflies_(short_story)), 1967, Akiyuki Nosaka, semi-autobiographical story
-* Guernica [WS](https://www.pablopicasso.org/guernica.jsp), [WP](https://en.wikipedia.org/wiki/Guernica_(Picasso)), 1937, Pablo Picasso, Cubism
+* Guernica [WP](https://en.wikipedia.org/wiki/Guernica_(Picasso)), [WS](https://www.pablopicasso.org/guernica.jsp), 1937, Pablo Picasso, Cubism
+* Johnny I Hardly Knew Ye, [WP](https://en.wikipedia.org/wiki/Johnny_I_Hardly_Knew_Ye), [WS](https://folksongandmusichall.com/index.php/johnny-i-hardly-knew-ye/), 1867, JB Geoghegan, folk songs and music hall
 * ...
