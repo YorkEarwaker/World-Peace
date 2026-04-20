@@ -17,6 +17,7 @@ Terms
 
 Organizations
 * International Day of Peace [WS](https://www.un.org/en/observances/international-day-peace), UN
+* Global Peace Index [WS](https://www.economicsandpeace.org/global-peace-index/), IEP
 * ...
 
 Rationale
