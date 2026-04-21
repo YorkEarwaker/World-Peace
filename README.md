@@ -18,7 +18,7 @@ Terms
 Organizations
 * International Day of Peace [WS](https://www.un.org/en/observances/international-day-peace), UN
 * Global Peace Index [WS](https://www.economicsandpeace.org/global-peace-index/), IEP
-* ...
+* Earth Day, [WP](https://en.wikipedia.org/wiki/Earth_Day), org [WS](https://www.earthday.org/)
 
 Rationale
 * Grave of the Fireflies, [WP](https://en.wikipedia.org/wiki/Grave_of_the_Fireflies_(short_story)), 1967, Akiyuki Nosaka, semi-autobiographical story
