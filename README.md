@@ -1,5 +1,6 @@
 # World peace wp
 
+Conserving civilization, 
 
 ## Status
 TODO
@@ -24,7 +25,9 @@ Rationale
 * Phan Thi Kim Phuc, [WP](https://en.wikipedia.org/wiki/Phan_Thi_Kim_Phuc), 1972, Trảng Bàng, photography
 * Grave of the Fireflies, [WP](https://en.wikipedia.org/wiki/Grave_of_the_Fireflies_(short_story)), 1967, Akiyuki Nosaka, semi-autobiographical story
 * Die Brücke, [WP](https://en.wikipedia.org/wiki/Die_Br%C3%BCcke_(film)), 1959, Bernhard Wicki, film
-* Guernica, [WP](https://en.wikipedia.org/wiki/Guernica_(Picasso)), [WS](https://www.pablopicasso.org/guernica.jsp), 1937, Pablo Picasso, cubism, painting
+* Nagasaki, Atomic archives [WS](https://www.atomicarchive.com/media/photographs/nagasaki/index.html), Getty [WS](https://www.gettyimages.co.uk/photos/nagasaki-bomb), 9 August 1945, many, photography
+* Hiroshima, The Bulletin [WS](https://thebulletin.org/2025/08/atomic-testament-yoshito-matsushige-and-the-first-photos-of-hiroshimas-nuclear-toll/), UN [WS](https://media.un.org/photo/en/photo-essays/moment-world-changed-forever), Atomic archives [WS](https://www.atomicarchive.com/media/photographs/hiroshima/index.html), Getty [WS](https://www.gettyimages.co.uk/photos/hiroshima-bomb), Life [WS](https://www.life.com/history/hiroshima-portraits-of-survivors/), 6 August 1945, Yoshito Matsushige etal, photography
+* Guernica,[WP](https://en.wikipedia.org/wiki/Guernica_(Picasso)), [WS](https://www.pablopicasso.org/guernica.jsp), 1937, Pablo Picasso, cubism, painting
 * War (Krieg), Koln [WS](https://www.kollwitz.de/folge-krieg-uebersicht), MoMA [WS](https://www.moma.org/collection/works/69682), 1921–22 (made) 1923 (published), Käthe Kollwitz, woodcuts
 * Mental Cases, [WP](https://en.wikipedia.org/wiki/Mental_Cases), 1917, Wilfred Owen, poetry
 * Johnny I Hardly Knew Ye, [WP](https://en.wikipedia.org/wiki/Johnny_I_Hardly_Knew_Ye), [WS](https://folksongandmusichall.com/index.php/johnny-i-hardly-knew-ye/), 1867, JB Geoghegan, folk songs and music hall
