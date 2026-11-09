@@ -7,6 +7,7 @@ TODO
 * <todo: consider, love, /lve project, wip >
 * <todo: consider, peace, /pce project, wip >
 * <todo: consider, does the trump epstein reading room belong here or elsewhere, the crimes it documents certainly qualify as uncivilized and inhumane, crimes including sex trafficking and rape and violence and terrorising mostly female minors and young women and also alegedly some male minors and young men, victims circa 70%-80% female minors and barley legal 30%-20% female teenageers and young women, >
+* <todo: consider, when does a crime qualify as a crime agianst humanity or similar demarcation, what are the criteria threshholds and quantifiable metrics, more research required, >
 
 DONE
 * <done: consider, intent to commit, >
