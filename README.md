@@ -6,7 +6,7 @@ Conserving civilization,
 TODO
 * <todo: consider, love, /lve project, wip >
 * <todo: consider, peace, /pce project, wip >
-* <todo: consider, does the trump epstien reading room belong here or elsewhere, the crimes it documents certainly qualify as uncivilized and inhumane >
+* <todo: consider, does the trump epstein reading room belong here or elsewhere, the crimes it documents certainly qualify as uncivilized and inhumane and some sex trafficking and rape and violence and terrorising mostly female minors and young women and also some male minors and young men >
 
 DONE
 * <done: consider, intent to commit, >
@@ -39,4 +39,4 @@ Events - never again
 * Hiroshima, The Bulletin [WS](https://thebulletin.org/2025/08/atomic-testament-yoshito-matsushige-and-the-first-photos-of-hiroshimas-nuclear-toll/), UN [WS](https://media.un.org/photo/en/photo-essays/moment-world-changed-forever), Atomic archives [WS](https://www.atomicarchive.com/media/photographs/hiroshima/index.html), Getty [WS](https://www.gettyimages.co.uk/photos/hiroshima-bomb), Life [WS](https://www.life.com/history/hiroshima-portraits-of-survivors/), 6 August 1945, Yoshito Matsushige etal, photography
 
 Events - never again, 
-* The Trump Epstien Reading Room, [WS](https://trumpepsteinreadingroom.com/), 
+* The Trump Epstein Memorial Reading Room, website [WS](https://trumpepsteinreadingroom.com/), substack [WS](https://news.trumpepsteinreadingroom.com/)
