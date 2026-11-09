@@ -6,7 +6,7 @@ Conserving civilization,
 TODO
 * <todo: consider, love, /lve project, wip >
 * <todo: consider, peace, /pce project, wip >
-* <todo: consider, does the trump epstein reading room belong here or elsewhere, the crimes it documents certainly qualify as uncivilized and inhumane and some sex trafficking and rape and violence and terrorising mostly female minors and young women and also some male minors and young men >
+* <todo: consider, does the trump epstein reading room belong here or elsewhere, the crimes it documents certainly qualify as uncivilized and inhumane, crimes including sex trafficking and rape and violence and terrorising mostly female minors and young women and also some male minors and young men, circa 70%-80% female minors >
 
 DONE
 * <done: consider, intent to commit, >
